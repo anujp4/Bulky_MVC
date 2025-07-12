@@ -17,7 +17,7 @@ A full-stack web application designed for purchasing books online, providing use
   End-to-end checkout process with secure data handling in-progress.
 
 ## Tech Stack
-
+- **Frontend:** ASP.NET Core Razor Views
 - **Backend:** ASP.NET Core  
 - **Database:** Microsoft SQL Server (MSSQL)
 
